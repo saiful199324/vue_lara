@@ -1,0 +1,62 @@
+https://www.youtube.com/watch?v=CowsopJhX3M&list=PLB4AdipoHpxaHDLIaMdtro1eXnQtl_UvE&index=2
+
+https://www.youtube.com/watch?v=cKhTwApvuyw&list=PLB4AdipoHpxaHDLIaMdtro1eXnQtl_UvE&index=3
+
+Project Name = laravel multi purpose
+
+php artisan key:generate
+
+
+npm install
+
+npm install admin-lte@3.0.0-beta.2 --save 
+
+php artisan serve
+
+php artisan make:auth
+
+php artisan migrate
+
+
+admin@my-crm.com
+password
+
+
+==========create a new file==========
+
+views->layouts->master.blade.php
+
+resource->js->bootstrap.js->require('admin-lte');
+resource->sass->app.scss->@import '~admin-lte/dist/css/adminlte.css';
+
+npm run watch (for compiling al direstory)
+
+npm install --save-dev @fortawesome/fontawesome-free
+
+$fa-font-path:        "../webfonts";
+
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+
+npm run dev
+
+installing vueJS
+
+https://router.vuejs.org/guide/#javascript
+https://router.vuejs.org/installation.html#direct-download-cdn
+
+
+npm install vue-router
+
+npm run watch
+
+
+master.blade.php
+
+<router-view></router-view>
+
+<div class="wrapper" id="app">
+
+
+
